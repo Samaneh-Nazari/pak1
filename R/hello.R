@@ -1,4 +1,4 @@
-# Hello, I'm Samaneh!
+# Hello, Mehdi!
 #
 # This is an example function named 'hello'
 # which prints 'Hello, world!'.
@@ -14,5 +14,5 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("Hello, I'm Samaneh!")
+  print("Hello, Mehdi!")
 }
